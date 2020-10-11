@@ -1,0 +1,14 @@
+D:\visual_studio_projects\Calc2\Calc2\bin\Debug\netstandard2.0\Calc2.deps.json
+D:\visual_studio_projects\Calc2\Calc2\bin\Debug\netstandard2.0\Calc2.dll
+D:\visual_studio_projects\Calc2\Calc2\bin\Debug\netstandard2.0\ref\Calc2.dll
+D:\visual_studio_projects\Calc2\Calc2\bin\Debug\netstandard2.0\Calc2.pdb
+D:\visual_studio_projects\Calc2\Calc2\obj\Debug\netstandard2.0\Calc2.csprojAssemblyReference.cache
+D:\visual_studio_projects\Calc2\Calc2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\visual_studio_projects\Calc2\Calc2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\visual_studio_projects\Calc2\Calc2\obj\Debug\netstandard2.0\Calc2.AssemblyInfoInputs.cache
+D:\visual_studio_projects\Calc2\Calc2\obj\Debug\netstandard2.0\Calc2.AssemblyInfo.cs
+D:\visual_studio_projects\Calc2\Calc2\obj\Debug\netstandard2.0\Calc2.csproj.CoreCompileInputs.cache
+D:\visual_studio_projects\Calc2\Calc2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\visual_studio_projects\Calc2\Calc2\obj\Debug\netstandard2.0\Calc2.dll
+D:\visual_studio_projects\Calc2\Calc2\obj\Debug\netstandard2.0\ref\Calc2.dll
+D:\visual_studio_projects\Calc2\Calc2\obj\Debug\netstandard2.0\Calc2.pdb

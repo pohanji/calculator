@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XmZcSJorQmed6jlArlGu3K2Nl+vxB1QYBcbfVOvKvidBcgQeih8CMkY0dOaSzEHcps7l6sIYqAaeMF+M7meclg==",
+  "success": true,
+  "projectFilePath": "D:\\visual_studio_projects\\Calc2\\Calc2.iOS\\Calc2.iOS.csproj",
+  "expectedPackageFiles": [
+    "D:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "D:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
